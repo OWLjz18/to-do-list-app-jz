@@ -1,0 +1,26 @@
+{
+  "name": "to-do-list-app-jz",
+  "version": "1.0.0",
+  "description": "Command line application to add, remove, and edit tasks.",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "code": "node src/index.js"
+  },
+  "keywords": [
+		"jz",
+		"cli",
+		"cli-jz",
+		"to do list"
+  ],
+  "author": "OWLjz18 <owl.jz18@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OWLjz18/to-do-list-app-jz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OWLjz18/to-do-list-app-jz/issues"
+  },
+  "homepage": "https://github.com/OWLjz18/to-do-list-app-jz#readme"
+}
